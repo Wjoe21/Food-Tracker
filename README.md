@@ -15,5 +15,6 @@ only one using this. Also, there isn't much information to store anyways.
  - Total weight of the cat
  - How much food is left between dry and wet food
  - Disclaimer when trying to feed dry food in a 12 hour or less time window
+ - SMS whenever wet food or dry food is given
  
 Everyone is always arguing over who's fed the cat when and fed what, so hopefully this mediates all problems
