@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: #d8d8c6;
+}
+
+
+p {
+    text-align: center;
+    font-family: cursive;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
