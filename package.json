@@ -1,0 +1,15 @@
+{
+  "name": "cat-project",
+  "version": "1.0.0",
+  "description": "Nanu feed tracking app project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wasif Johar",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^0.14.2",
+    "express": "^4.17.1"
+  }
+}
