@@ -6,7 +6,7 @@ const date = require("date-and-time");
 
 const app = express();
 
-const port = process.env.PORT || 8080;
+const port = 8080;
 
 const infoFile = fs.readFileSync("./Data/info.json");
 const parsedData = JSON.parse(infoFile);
