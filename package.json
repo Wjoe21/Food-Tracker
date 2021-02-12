@@ -1,6 +1,9 @@
 {
   "name": "cat-project",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.15.4"
+  },
   "description": "Nanu feed tracking app project",
   "main": "server.js",
   "scripts": {
