@@ -4,6 +4,7 @@
   "description": "Nanu feed tracking app project",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wasif Johar",
