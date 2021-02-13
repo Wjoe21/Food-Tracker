@@ -8,7 +8,7 @@ const app = express();
 
 const port = process.env.PORT || 8080;
 
-const infoFile = fs.readFileSync("./Data/info.json");
+const infoFile = fs.readFileSync(path.join(__dirname, "data/info.json"));
 const parsedData = JSON.parse(infoFile);
 
 app.use(express.static("public"));
